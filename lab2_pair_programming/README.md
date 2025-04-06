@@ -23,3 +23,4 @@ The task was completed in pairs, with role switching every 10 minutes — one pe
 - Gained practical experience with role switching and teamwork.
 - Practiced clean code principles and modular design under time constraints.
 
+<img width="828" alt="game_of_life" src="https://github.com/user-attachments/assets/ec17e654-1db9-4022-a5ed-7a82096124bb" />
